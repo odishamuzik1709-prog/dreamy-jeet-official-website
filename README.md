@@ -1,2 +1,1 @@
-# dreamy-jeet-official-website
-Official website of Dreamy Jeet | OdishaMuzik Records
+# Dreamy Jeet Website\nStarter full project zip with frontend + backend templates.
